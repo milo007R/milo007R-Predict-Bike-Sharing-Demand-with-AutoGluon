@@ -6,7 +6,7 @@
 The first thing that I did was to install kaggle in the notebook, also I used a new fucntion which was .predict() to make a predicitions of all the data from the test.csv, I also upload my credential from kaggle to acces my account, kaggle does not accept negative values for the predictions, so I had to verify that all the values were higher than 0, in this case all the values were higher and there wasn't any change in the prediction values.
 
 ### What was the top ranked model that performed?
-Thw best model was the first model
+In the first prediction, it was the model called WeightedEnsemble_L3, it had the best performance
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
